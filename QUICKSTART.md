@@ -25,7 +25,6 @@ kubectl create namespace livekit
 API_KEY=$(openssl rand -hex 16)
 API_SECRET=$(openssl rand -base64 32)
 
-# Tạo file .env
 cat > .env <<EOF
 # LiveKit Configuration
 LIVEKIT_NAMESPACE=livekit
