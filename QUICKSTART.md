@@ -36,7 +36,7 @@ API_KEY=$API_KEY
 API_SECRET=$API_SECRET
 
 # Redis
-REDIS_PASSWORD=Redis123!Strong
+REDIS_PASSWORD=Jipom321@
 REDIS_ADDRESS=redis-master.livekit.svc.cluster.local:6379
 
 # Ports
